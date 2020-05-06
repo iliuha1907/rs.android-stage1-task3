@@ -1,5 +1,5 @@
 package subtask3
-
+import java.util.*
 class ArrayCalculator {
 
     // TODO: Complete the following function
